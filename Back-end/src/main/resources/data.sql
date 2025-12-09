@@ -1,0 +1,1 @@
+INSERT INTO TBL_GROUPS (id, name, description) VALUES (1, 'Familia', 'Grupo de familia');
